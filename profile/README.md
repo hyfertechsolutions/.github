@@ -7,9 +7,9 @@ Based out of the Dallas, TX area, we specialize in building secure, scalable, an
 ## 🛠️ What We Do
 
 * **Cloud Migrations & Architecture:** Designing and executing seamless moves to AWS cloud infrastructure.
-* **Infrastructure Automation:** Leveraging Terraform, Ansible, and PowerShell to automate deployments and streamline operations.
-* **Security & Firewall Management:** Configuring and maintaining robust security postures using Palo Alto and FortiGate firewalls.
-* **Systems Monitoring & Admin:** Keeping your Windows and Linux servers running smoothly with proactive Zabbix monitoring and reliable ZFS storage solutions.
+* **Infrastructure Automation:** Leveraging IaC to automate deployments and streamline operations.
+* **Security & Firewall Management:** Configuring and maintaining robust security postures.
+* **Systems Monitoring & Admin:** Keeping your Windows and Linux servers running smoothly.
 
 ## 🤝 Let's Connect
 
