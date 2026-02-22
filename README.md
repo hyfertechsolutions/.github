@@ -15,9 +15,9 @@ Based out of the Dallas, TX area, we specialize in building secure, scalable, an
 
 We are always open to discussing new projects, cloud strategies, or how we can help optimize your current tech stack. 
 
-* **Website:** [Hyfertechsolutions.com]
+* **Website:** [https://hyfertechsolutions.com]
 * **Contact:** [support@hyfertechsolutions.com]
-* **LinkedIn:** [https://www.linkedin.com/company/hyfer-tech-solutions/]
+* **LinkedIn:** [https://inkedin.com/company/hyfer-tech-solutions/]
 
 ---
 *Making complex tech feel simple.*
