@@ -17,7 +17,7 @@ We are always open to discussing new projects, cloud strategies, or how we can h
 
 * **Website:** [https://hyfertechsolutions.com]
 * **Contact:** [support@hyfertechsolutions.com]
-* **LinkedIn:** [https://inkedin.com/company/hyfer-tech-solutions/]
+* **LinkedIn:** [https://linkedin.com/company/hyfer-tech-solutions/]
 
 ---
 *Making complex tech feel simple.*
